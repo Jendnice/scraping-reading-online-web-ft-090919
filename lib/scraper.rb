@@ -9,3 +9,4 @@ puts doc.css(".headline-26OIBN").text
 
 puts doc.css(".headline-26OIBN").text.strip
 
+p docs.css(".headline-26OIBN")
